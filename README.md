@@ -1,4 +1,4 @@
-<p align="center"> Hello - Im <b> MehranSpL <b> - I'm An Iranian <b> Back-End </b> and <b> Front End </b> Developer. </p>
+<p align="center"> Hello - Im MehranSpL - I'm An Iranian <b> Back-End and <b> Front End <b> Developer. </p>
 <div align="center">
 
 <h1> Social Media </h1>
