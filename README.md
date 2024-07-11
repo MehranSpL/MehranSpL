@@ -1,4 +1,4 @@
-<p align="center"> Hi, im Mehran, a Software Developer </p>
+<p align="center"> Hi, im Mehran </p>
 <div align="center">
 
 <h1> Languages i worked with: </h1>
