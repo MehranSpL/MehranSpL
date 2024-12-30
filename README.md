@@ -1,5 +1,5 @@
 <p align="center"> Hi, im Mehran </p>
-<a> A kid who likes everything in code style</a>
+<a align="center"> A kid who likes everything in code style</a>
 <div align="center">
 
 <h1> Languages i worked with: </h1>
