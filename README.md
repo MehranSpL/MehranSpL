@@ -4,8 +4,8 @@
 <h1> Languages i worked with: </h1>
   <h1>
     <img src="https://img.shields.io/badge/Python-white?logo=python" />
-    <img src="https://img.shields.io/badge/C++-blue?logo=Cplusplus" />
-    <img src="https://img.shields.io/badge/CSharp-blue?logo=C#" />
+    <img src="https://img.shields.io/badge/C++-white?logo=Cplusplus" />
+    <img src="https://img.shields.io/badge/C#-white?logo=C#" />
     </a>
   <h1> Operating Systems that i use:<h1>
     <img src="https://img.shields.io/badge/Fedora-black?logo=fedora&logoColor=blue" />
