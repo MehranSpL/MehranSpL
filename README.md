@@ -3,13 +3,13 @@
 
 <h1> Languages i worked with: </h1>
   <h1>
-    <img src="https://img.shields.io/badge/Python-white?logo=python" />
-    <img src="https://img.shields.io/badge/C++-white?logo=Cplusplus" />
-    <img src="https://img.shields.io/badge/C#-white?logo=C#" />
+    <img src="https://img.shields.io/badge/Python-black?logo=python" />
+    <img src="https://img.shields.io/badge/C++-black?logo=Cplusplus" />
+    <img src="https://img.shields.io/badge/CSharp-black?logo=C#" />
     </a>
   <h1> Operating Systems that i use:<h1>
-    <img src="https://img.shields.io/badge/Fedora-black?logo=fedora&logoColor=blue" />
     </a>
+    <img src="https://img.shields.io/badge/Fedora-black?logo=fedora&logoColor=blue" />
     <img src="https://img.shields.io/badge/Windows%2010-black?logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Arch%20Linux-black?logo=Arch-linux&logoColor=blue" />
     </a>
