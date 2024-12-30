@@ -2,10 +2,8 @@
 <div align="center">
 
 <h1> Languages i worked with: </h1>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-white?logo=python" />
-  </a>
   <h1>
+    <img src="https://img.shields.io/badge/Python-white?logo=python" />
     <img src="https://img.shields.io/badge/C++-blue?logo=Cplusplus" />
     <img src="https://img.shields.io/badge/CSharp-blue?logo=C#" />
     </a>
