@@ -10,7 +10,7 @@
 
 ```cpp
 // Core.Skills
-class Mehran : public Hacker {
+class Mehran : public WTF {
 public:
     std::string language = "C++, Python";
     std::string title = "Modern Cheat Developer & Vulnerability Researcher";
