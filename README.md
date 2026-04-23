@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Modern+Cheat+Developer;Reverse+Engineer+%F0%9F%94%8D;Coding+with+Python+%2B+C%2B%2B;Vulnerability+Researcher+%F0%9F%94%A5"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Modern+AntiCheat/Cheat+Developer;Reverse+Engineer+%F0%9F%94%8D;Coding+with+Python+%2B+C%2B%2B;Vulnerability+Researcher+%F0%9F%94%A5"/>
 </p>
 
 ---
@@ -55,3 +55,4 @@ public:
 - 🧬 API integrations with game memory
 - 💣 Reverse engineering automation
 - ⚡ Security of companies and softwares
+- 💎 Anticheats with enhanced security
