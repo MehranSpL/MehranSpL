@@ -9,8 +9,7 @@
 ### 🧠 About Me
 
 ```cpp
-// Core.Skills
-class Mehran : public WTF {
+class Mehran {
 public:
     std::string language = "C++, Python";
     std::string title = "Modern Cheat Developer & Vulnerability Researcher";
